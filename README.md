@@ -12,6 +12,8 @@ A simple countdown timer, which could be used for auto-saving for softwares, aut
 4.当前版本功能比较简单，但常用功能都已支持，后续更多功能等待开发(≧▽≦)
 
 # 使用方法：
+![主界面](https://i.postimg.cc/9FrY66F8/image.png)
+
 1. 在主界面中设置倒计时时间，默认为15秒，可以通过点击"+","-"按钮改变时间，或直接输入修改
 2. 输入的时间支持两种格式：
     * 若输入为正整数，倒计时长为输入的时间
