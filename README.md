@@ -6,7 +6,7 @@ A simple countdown timer, which could be used for auto-saving for softwares, aut
 
 # 项目简介
 
-1.此项目基于python编写  
+1.此项目基于python - pyqt库编写  
 2.最初用于电子书软件自动翻页以及工图自动保存，后续加入其他扩展功能  
 3.由于没有找到类似功能的小工具，只能自己开发，初学者水平有限，欢迎大家给出建议。  
 4.当前版本功能比较简单，但常用功能都已支持，后续更多功能等待开发(≧▽≦)
@@ -27,15 +27,13 @@ A simple countdown timer, which could be used for auto-saving for softwares, aut
     * 自定义：可以自己设定执行次数
 
 # 问题反馈
-由于项目目前处于初创阶段，可能存在潜在bug，欢迎大家积极指正，感谢您的支持！
+由于项目目前处于demo阶段，可能存在潜在bug，欢迎大家积极指正，感谢您的支持！
 1. 工具及源码发布地址：
     * https://github.com/Eddingtong/MixTimer
-    * gitee暂未上传
 2. QQ群：790010416, 密码：github
 
 # 支持作者
 如果您想要支持作者，可以扫描下方二维码~
-（当然，免费是完全可以的啦~）
 ![赞助码](https://i.postimg.cc/bvr904Sf/zanshang.jpg)
 
 感谢大佬的支持(≧▽≦)~
