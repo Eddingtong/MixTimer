@@ -34,6 +34,7 @@ A simple countdown timer, which could be used for auto-saving for softwares, aut
 
 # 支持作者
 如果您想要支持作者，可以扫描下方二维码~
+
 ![赞助码](https://i.postimg.cc/bvr904Sf/zanshang.jpg)
 
 感谢大佬的支持(≧▽≦)~
